@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Avtalad tid med doktor",
+      "day": "Dec 1 klockan 13.30",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Avtalad tid med tandläkare",
+      "day": "Dec 2 klockan 13.00",
+      "reminder": true
+    },
+    {
+      "text": "Middag med Ingrid",
+      "day": "Nov 26 klockan 18.00",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Köpa router på Kjell & co",
+      "day": "Nov 26 klockan 15.00",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
